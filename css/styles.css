@@ -54,7 +54,19 @@ body ol,
 body ul {
     /*    background-color: transparent;*/
 }
-
+/*
+main {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: center;
+}
+*/
+.centered{
+    display: flex;
+justify-content: center;
+    align-items: center;
+}
 .centered {
 
     margin-left: 40px;
